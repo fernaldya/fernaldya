@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey there 👋
 
+🔭 Hello, I'm Fernaldy, an aspiring Data Engineer with a passion for turning complex data into actionable insights and efficient data systems. I have recently completed an intensive 3-month full-time data science programme, which has been a transformative journey in solidifying my skills and knowledge in the field of data engineering and science.
+
+🤔 On my off time, I like to delve deep into Neural Networks
+
+## ⚡ Always keen to learn more!
 <!--
 **fernaldya/fernaldya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
