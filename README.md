@@ -1,21 +1,21 @@
 ### Hey there 👋
 
-🔭 Hello, I'm Fernaldy, an aspiring Data Engineer with a passion for turning complex data into actionable insights and efficient data systems. I have recently completed an intensive 3-month full-time data science programme, which has been a transformative journey in solidifying my skills and knowledge in the field of data engineering and science.
+🔭 Hello, I'm Fernaldy, an aspiring Data Engineer / ML AI Engineer with a passion for turning complex data into actionable insights and efficient data systems. I have recently completed an intensive 3-month full-time data science programme, which has been a transformative journey in solidifying my skills and knowledge in the field of data engineering and science.
 
-🤔 On my off time, I like to delve deep into Neural Networks
+🤔 On my off time, I like to learn more on Data Engineering / MLAI Stacks
 
-## ⚡ Always keen to learn more!
+## ⚡ Always keen to learn more! :snake: 
+
+
 <!--
 **fernaldya/fernaldya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫
+- 😄 
+- ⚡ 
