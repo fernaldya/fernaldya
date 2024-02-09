@@ -5,7 +5,7 @@ I'm Fernaldy, an aspiring Data Engineer / ML AI Engineer / Data Scientist with a
 ## ⚡ Always keen to learn more! :snake: 
 
 ## 🚀 Learning Endeavors:
-- Java 📫
+- Java & JavaScript📫
 - Data Engineering (+ Cloud Solutions) ☁️
 - DevOps (+ MLOps) -> Kubernetes, CI/CD 🔱
   
